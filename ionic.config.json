@@ -1,0 +1,8 @@
+{
+  "name": "pogopal",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "35c45a58"
+}
